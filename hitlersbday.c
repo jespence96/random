@@ -58,3 +58,4 @@ int main(void)
 		
 	}
 	printf("Total guesses: %d", guesses);
+}
